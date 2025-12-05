@@ -1,0 +1,2 @@
+# Ddominio
+Scrip termux
