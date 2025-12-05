@@ -27,10 +27,10 @@ Warning 🚦 This Tool Formates (WhatsApp Otp Lock) So think and Use.
 * `apt-get upgrade -y`
 * `pkg install python -y`
 * `pkg install git -y`
-* `git clone https://github.com/Mr-Krishna-90/WhatsApp-Otp-Lock`
+* `git clone https://github.com/Devi12a/Ddominio`
 * `cd $HOME`
 * `ls`
-* `cd WhatsApp-Otp-Lock`
+* `cd Ddominio`
 * `pip install requests`
 * `ls`
 * `python Whatsapp-Otp-Lock`
